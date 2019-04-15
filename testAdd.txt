@@ -1,6 +1,3 @@
 sf sd
-<<<<<<< HEAD
-=======
 张帆在分支上进行修改！
 继续修改
->>>>>>> origin/testfeature
